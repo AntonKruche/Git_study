@@ -8,3 +8,8 @@ I love sport
 
 ***this is bolder oblique text***
 
+this square is ~~white~~
+
+![this square is black](p1.JPG)
+
+
