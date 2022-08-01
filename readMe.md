@@ -38,7 +38,7 @@ This text was created for example. I learn how to use branches
 
 ## line2
 
-This text was created fot example. I will merge all this branches in 1 MegaBranch(Master)
+This text was created fot example. I will merge all this branches in 1 MegaBranch(Master) and try to conflict with another branch
 
 
 
