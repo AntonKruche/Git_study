@@ -26,6 +26,8 @@ Start the second lesson
 
 "git merge" - use this to merge 2 branches
 
+"git branch new_branch_name" - use this when you want to create a new branch
+
 
 
     
