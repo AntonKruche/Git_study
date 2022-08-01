@@ -19,3 +19,13 @@ this square is ~~white~~
 > this is blockqoute 
 
 Start the second lesson
+
+# Branches
+
+## commands
+
+"git merge" - use this to merge 2 branches
+
+
+
+    
