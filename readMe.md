@@ -20,7 +20,7 @@ this square is ~~white~~
 
 Start the second lesson
 
-# Branches
+# The seccond lesson. Some info about branches
 
 ## commands
 
