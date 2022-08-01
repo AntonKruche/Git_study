@@ -17,6 +17,3 @@ this square is ~~white~~
 ## this is a second lvl heading
 
 > this is blockqoute 
-
-
-
