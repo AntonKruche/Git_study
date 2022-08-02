@@ -33,8 +33,7 @@ Start the second lesson
 "git branch new_branch_name" - use this when you want to create a new branch
 
 ## line1
-
-This text was created for example. I learn how to use branches
+adfaccxcaacasc
 
 ## line2
 
