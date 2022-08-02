@@ -41,3 +41,7 @@ This text was created for example. I learn how to use branches
 This text was created fot example. I will merge all this branches in 1 MegaBranch(Master) and try to conflict with another branch
 
 New command commit --amend^C
+
+try to use new command
+
+another try
