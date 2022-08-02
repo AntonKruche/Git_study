@@ -43,3 +43,5 @@ This text was created fot example. I will merge all this branches in 1 MegaBranc
 New command commit --amend^C
 
 try to use new command
+
+new line
