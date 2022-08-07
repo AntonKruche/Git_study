@@ -48,3 +48,8 @@ new line
 
 #  **Lesson3**
 ## Work with remote repositories
+
+### Some new commands
+* git clone - use this when you want to clone some repositories from GitHub
+* git push - use this when you want to send your commentaries for remote repo
+* giy pull - use this when you want copy commits from remote repo to your local repo and merge it
